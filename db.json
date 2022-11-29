@@ -1,64 +1,116 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+  "library":[
+    
+      { 
+        "id":1,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
       },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
+      { 
+        "id":2,
+        "image_url": "https://m.media-amazon.com/images/I/71qBw+MLkhL.jpg",
+        "book_name": "The India Story",
+        "author": "Bimal Jalal",
+        "genre": "Creative nonfiction",
+        "edition": "2021",
+        "publisher": "Rupa & Co",
+        "cost": 381,
+        "borrowed": false
       },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
+      { 
+        "id":3,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mA-hB5A_eDCyIbrLLPvihihuiSfN-U4UlGkpZgKSbg5gnwXvUg2HwddPJXOyH6gslJg&usqp=CAU",
+        "book_name": "Listen to Your Heart: The London Adventure",
+        "author": "Ruskin Bond",
+        "genre": "Juvenile Nonfiction",
+        "edition": "2022",
+        "publisher": "Penguin Random House India",
+        "cost": 250,
+        "borrowed": false
       },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
+      { 
+        "id":4,
+        "image_url": "https://m.media-amazon.com/images/I/51V7Hl5YltL.jpg",
+        "book_name": "Business of Sports: The Winning Formula for Success",
+        "author": "Vinit Karnik",
+        "genre": "fiction",
+        "edition": "2022",
+        "publisher": "Popular Prakashan Pvt. Ltd.",
+        "cost": 399,
+        "borrowed": false
       },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
+      { 
+        "id":5,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
       },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
+      { 
+        "id":6,
+        "image_url": "https://m.media-amazon.com/images/I/51+AxwPLV8L.jpg",
+        "book_name": "A Place Called Home",
+        "author": "Preeti Shenoy",
+        "genre": "fiction",
+        "edition": "2022",
+        "publisher": "HarperCollins India",
+        "cost": 178,
+        "borrowed": false
       },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
+      { 
+        "id":7,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
       },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
+      { 
+        "id":8,
+        "image_url": "https://m.media-amazon.com/images/I/41jvc-tNVJL.jpg",
+        "book_name": "Modi @20: Dreams Meeting Delivery",
+        "author": "VP Venkaiah Naidu",
+        "genre": "political",
+        "edition": "2022",
+        "publisher": "RUPA PUBLICATIONS INDIA",
+        "cost": 609,
+        "borrowed": false
       },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
+      { 
+        "id":9,
+        "image_url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_1580978894.jpg",
+        "book_name": "The Struggle for Police Reforms in India",
+        "author": "Ex-IPS Prakash Singh",
+        "genre": "fiction",
+        "edition": "2022",
+        "publisher": " Rupa Publications India Pvt Ltd",
+        "cost": 609,
+        "borrowed": false
       },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
+      { 
+        "id":10,
+        "image_url": "https://m.media-amazon.com/images/I/519lEtg5UyL._AC_UY218_.jpg",
+        "book_name": "INDO-PAK WAR 1971- Reminiscences of Air Warriors",
+        "author": "Rajnath Singh",
+        "genre": "Biography",
+        "edition": "2022",
+        "publisher": "Pentagon Press LLP",
+        "cost": 575,
+        "borrowed": false
       }
-    ]
-  }
+    
+  ]
+}
