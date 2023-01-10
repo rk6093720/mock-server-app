@@ -1,28 +1,18 @@
 {
-  "notes":[
+  "dogs": [
     {
-      "id":1,
-      "title":"The hero",
-      "deescription":"i am a hero",
-      "date":"22-dec-2022"
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
     {
-      "id":2,
-      "title":"The hero",
-      "deescription":"i am a hero",
-      "date":"22-dec-2022"
-    },
-    {
-      "id":3,
-      "title":"The hero",
-      "deescription":"i am a hero",
-      "date":"22-dec-2022"
-    },
-    {
-      "id":4,
-      "title":"The hero",
-      "deescription":"i am a hero",
-      "date":"22-dec-2022"
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }
