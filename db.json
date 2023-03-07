@@ -1,10 +1,9 @@
 {
-	"users":[
+	"task":[
 		{
 			"id":1,
-			"email":"rk@gmail.com",
-			"username":"rohit",
-			"password":"1234"
+			"title":"react",
+			"date":"07-03-2023"
 		}
 	]
 }
