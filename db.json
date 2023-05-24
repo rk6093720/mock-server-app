@@ -1,9 +1,10 @@
 {
-	"task":[
+	"todo":[
 		{
 			"id":1,
 			"title":"react",
-			"date":"07-03-2023"
+			"description":"react is a javascript library",
+			"isbool":false
 		}
 	]
 }
