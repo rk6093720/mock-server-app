@@ -1,5 +1,9 @@
 {
 	"users":[
-		
+		{
+			"id":1,
+			"name":"Rohit",
+			"email":"rk60"
+		}
 	]
 }
